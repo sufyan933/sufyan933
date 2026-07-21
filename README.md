@@ -1,178 +1,409 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Muhammad%20Sufyan&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Electrical%20Engineering%20%7C%20PCB%20Design%20%7C%20ROS%202%20%26%20Embedded%20Systems&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&text=Muhammad%20Sufyan&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Electrical%20Engineering%20Student%20%7C%20PCB%20Designer%20%7C%20Embedded%20Systems%20Enthusiast&descAlignY=58&descSize=18"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Electrical+Engineering+Student+%40+PIEAS;PCB+Design+%26+Embedded+Systems+Enthusiast;ROS+2+%26+Robotics+Developer;Building+Hardware+that+Solves+Real+Problems;CGPA%3A+3.99+%2F+4.00" alt="Typing SVG" />
-</a>
-
-<p>
-  📍 <b>Islamabad / Attock, Pakistan</b>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/muhammad-sufyan-6214752b8">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:arhamsufyan5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Electrical+Engineering+Student+at+PIEAS;PCB+Design+%7C+Embedded+Systems+%7C+ROS+2;Passionate+about+Power+Electronics;Building+Hardware+that+Solves+Real+Problems;CGPA+3.99+%2F+4.00" />
 
 <br>
 
-## ⚡ About Me
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-I’m a first‑year **Electrical Engineering** student at **PIEAS**, currently holding a **3.99 / 4.00 CGPA**.  
-I care most about the point where a schematic becomes a working circuit – designing PCBs in KiCad, programming microcontrollers, and getting embedded systems to behave the way I intended on the first (or fifth) try.
+<a href="mailto:arhamsufyan5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-I enjoy transforming circuit concepts into reliable hardware through PCB design, embedded programming, and hands‑on prototyping. My current interests include **robotics with ROS 2**, **power electronics**, and **high‑speed PCB layout**.
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+# 👋 About Me
+
+I'm **Muhammad Sufyan**, a **B.S. Electrical Engineering student at PIEAS** with a passion for designing reliable hardware and embedded systems.
+
+I enjoy transforming ideas into real-world electronic products by combining **PCB design**, **embedded programming**, and **power electronics**. Whether it's routing a multi-layer PCB, programming a microcontroller, or debugging hardware, I love solving engineering challenges through hands-on development.
+
+Currently, I'm expanding my expertise in **ROS 2**, robotics, and modern embedded systems while continuously improving my PCB design workflow and hardware development skills.
+
+---
+
+## 🚀 Current Focus
+
+- 🔷 Custom PCB Design using KiCad
+- 🤖 ROS 2 & Robotics
+- ⚡ Power Electronics
+- 🔌 Embedded Systems Development
+- 🧠 Learning High-Speed PCB Design
+- 📚 Exploring STM32 & ESP32 Platforms
+
+---
+
+## 📊 Quick Overview
 
 ```yaml
-degree:        "B.S. Electrical Engineering @ PIEAS"
-cgpa:          "3.99 / 4.00"
-core_focus:    "PCB Layout Design · Embedded Systems · Power Electronics · ROS 2"
-currently:     "ROS 2 Intern @ ArboTrix Lab, Islamabad"
-```
+Name: Muhammad Sufyan
+Degree: B.S. Electrical Engineering
+University: PIEAS
+CGPA: 3.99 / 4.00
+Location: Islamabad / Attock, Pakistan
 
-· 🔭 Designing custom multi‑layer PCBs and exploring high‑speed layout practices
-· 🤖 Learning ROS 2 node architecture and robotic simulation (Gazebo, Rviz)
-· ⚡ Fascinated by power electronics – converters, regulators, and everything that keeps voltage where it should be
-· 📫 Reach me at arhamsufyan5@gmail.com
+Current Internship:
+  ROS 2 Intern
+  ArboTrix Lab
 
-<br>
-
-🛠️ Technical Ecosystem
-
-Programming Languages
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-
-Microcontrollers & Robotics
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-
-Hardware & EDA
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/> <img src="https://img.shields.io/badge/LTspice-004A99?style=for-the-badge"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/Multisim-FF6600?style=for-the-badge"/>
-
-Simulation & Documentation
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-
-<br>
-
-📈 Current Focus
-
-· 🤖 ROS 2 – publishers/subscribers, custom messages, Gazebo simulation
-· 🧠 STM32 – moving beyond Arduino to professional ARM development
-· ⚡ High‑Speed PCB – impedance control, differential pairs, signal integrity
-· 🧮 Power Electronics – buck/boost converters, feedback loops, thermal management
-· 🐧 Linux – workflow automation and embedded toolchains
-
-<br>
-
-💼 Experience & Internships
-
-🤖 ROS 2 Intern – ArboTrix Lab, H-13, Islamabad
-Working on robotic simulation, ROS 2 node architecture, and publisher/subscriber communication for navigation systems.
-
-🤝 Volunteer Intern – Alkhidmat Volunteer Program
-Community outreach, operational support, and volunteer leadership across service initiatives.
-
-<br>
-
-🚀 Featured Projects
-
-<details>
-<summary><b>🔌 Hardware, Power Electronics & Custom PCB Design</b></summary>
-<br>
-
-Project Tech Stack Description
-🎛️ IoT Custom ESP32 4‑Layer Board KiCad, High‑Speed PCB, ESP32 Compact 4‑layer custom PCB engineered for signal integrity, power distribution, and wireless IoT deployment.
-⚡ DC‑DC Buck & Boost Converter PCB KiCad, Power Electronics, Thermal Management Switching voltage regulator design with optimized trace routing, minimal ripple, and solid thermal planes.
-🔋 AC to DC Regulated Power Supply PCB KiCad, Analog Circuit Design Regulated DC power supply built around full‑wave rectification, filtering, and linear voltage regulation.
-🚦 LED Traffic Light Control System (PCB) KiCad, Discrete Logic Custom‑routed PCB implementing structured hardware logic for signal switching and control.
-🏠 Residential House Wiring Project (CEP) Load Analysis, Electrical Safety Complete residential load management plan with phase balancing, grounding safety, and breaker distribution.
-
-</details>
-
-<details>
-<summary><b>🤖 Embedded Systems & Robotics</b></summary>
-<br>
-
-Project Tech Stack Description
-🔒 Smart Home Lock System Embedded C/C++, Authentication Logic Automated, security‑driven door lock system with hardware authentication and state management.
-🚗 Smart Ultrasonic Parking Assistance System Arduino, HC‑SR04, State Control Real‑time proximity tracking with dynamic warning indicators for vehicle maneuvering.
-📡 Arduino Radar Scanning System Arduino, Servo Motor, Ultrasonic Sensor Continuous angular object sweep with live distance detection and polar mapping visualization.
-🤖 ROS 2 Simulation (in progress) ROS 2, Gazebo, Rviz Developing a differential drive robot with navigation stack and obstacle avoidance.
-
-</details>
-
-<details>
-<summary><b>💻 Software Systems</b></summary>
-<br>
-
-Project Tech Stack Description
-🏨 Hotel Management System C++ (OOP) Console‑based application managing 45 room records, booking transactions, and persistent data storage.
-
-</details>
-
-<br>
-
-🏆 Achievements & Academics
-
-· 🎓 CGPA: 3.99 / 4.00 – B.S. Electrical Engineering, PIEAS
-· 🏅 College Position Holder: F.Sc Pre‑Engineering – 1025 / 1100, Federal College, Attock
-· 📜 SSC (Matriculation): 985 / 1100, FG Boys High School, Attock
-· 🧮 Math Quiz Competitor – COMSATS Attock
-
-Certifications
-
-· PCB Design Course – Simplilearn
-· MATLAB Onramp – MathWorks
-· Introduction to MATLAB – Simplilearn
-· AI for Business Professionals – HP LIFE
-· AI Visibility Toolkit Crash Course – Semrush
-
-<br>
-
-👥 Leadership & Extra‑Curricular
-
-· 🎤 Campus Ambassador – The Leap Pakistan
-· 🎤 Campus Ambassador – Paragon Study Abroad Expo
-· 🛠️ Management Team – PIEAS Open House 2026
-· 🛠️ Management Team – IEEE PIEAS Student Branch
-· 🛠️ Management Team – InnovateX PIEAS
-
-<br>
-
-💬 Quote
-
-“The best way to understand hardware is to build it.”
-— Muhammad Sufyan
-
-<br>
-
-📬 Let’s Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/muhammad-sufyan-6214752b8">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:arhamsufyan5@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-
-
-
-
-<i>Always open to conversations about PCB design, embedded systems, and power electronics.</i>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/>
+Interests:
+  - PCB Design
+  - Embedded Systems
+  - Robotics
+  - Power Electronics
+  - IoT
 ```
 
 ---
+
+# 💡 Engineering Philosophy
+
+> **"The best way to understand hardware is to build it."**
+
+I believe engineering is learned by designing, testing, debugging, and continuously improving. Every project teaches something new, and every mistake brings me closer to becoming a better engineer.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+---
+
+### 🤖 Embedded Systems & Robotics
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+</p>
+
+---
+
+### 🔌 PCB Design & Electronics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LTspice-004A99?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Multisim-FF6600?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20Electronics-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/High--Speed%20PCB%20Design-4B0082?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 📚 Documentation & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+## 🤖 ROS 2 Intern | ArboTrix Lab
+
+**July 2026 – Present**
+
+- Learning ROS 2 architecture
+- Publisher / Subscriber communication
+- Robotics simulation
+- Linux-based robotics workflow
+- Building a strong foundation in autonomous robotic systems
+
+---
+
+## 🤝 Volunteer Intern | Alkhidmat Foundation
+
+- Community service initiatives
+- Team collaboration
+- Event management
+- Volunteer leadership
+- Operational support
+
+---
+
+# 🚀 Featured Projects
+
+## 🔌 IoT Custom ESP32 4-Layer PCB
+
+> **KiCad • ESP32 • High-Speed PCB Design**
+
+Designed a custom 4-layer ESP32 development board with optimized power planes, signal integrity, and efficient component placement for compact IoT applications.
+
+**Highlights**
+
+- 4-layer PCB
+- Ground & Power Planes
+- High-Speed Routing
+- USB Interface
+- Compact Design
+
+---
+
+## ⚡ DC-DC Buck & Boost Converter PCB
+
+> **KiCad • Power Electronics**
+
+Designed switching regulator PCBs with careful component placement, thermal management, and optimized trace routing for improved efficiency and reduced ripple.
+
+**Highlights**
+
+- Buck Converter
+- Boost Converter
+- PCB Layout
+- Thermal Considerations
+- Power Integrity
+
+---
+
+## 🔋 AC to DC Regulated Power Supply
+
+> **Analog Electronics • PCB Design**
+
+Designed a regulated power supply featuring transformer, bridge rectifier, capacitor filtering, and voltage regulation with PCB implementation.
+
+---
+
+## 🔒 Smart Home Lock System
+
+> **Arduino • Embedded C++**
+
+A password-protected electronic door lock featuring secure authentication, EEPROM-based password storage, LCD interface, buzzer alerts, and servo-controlled locking mechanism.
+
+### Features
+
+- Password Authentication
+- EEPROM Memory
+- Password Change
+- Servo Lock
+- LCD Interface
+- Buzzer Alerts
+- LED Indicators
+- Security Lockout
+
+---
+
+## 📡 Arduino Radar System
+
+> **Arduino • Servo • HC-SR04**
+
+Developed a radar scanning system capable of continuously sweeping an area using a servo motor while measuring distances with an ultrasonic sensor.
+
+### Features
+
+- Real-time Scanning
+- Object Detection
+- Distance Measurement
+- Servo Rotation
+- Radar Visualization
+
+---
+
+## 🚗 Smart Parking Assistant
+
+> **Arduino • Ultrasonic Sensor**
+
+Designed a parking assistance system that measures vehicle distance and provides visual and audible feedback for safer parking.
+
+---
+
+## 🏠 Residential House Wiring (CEP Project)
+
+> **Electrical Engineering**
+
+Performed residential load calculations, breaker sizing, grounding design, voltage drop analysis, and electrical safety planning for a complete house wiring project.
+
+---
+
+# 📜 Certifications
+
+🏅 PCB Design Course — Simplilearn
+
+🏅 MATLAB Onramp — MathWorks
+
+🏅 Introduction to MATLAB — Simplilearn
+
+🏅 AI for Business Professionals — HP LIFE
+
+🏅 AI Visibility Toolkit — Semrush
+
+---
+
+# 👨‍💼 Leadership & Activities
+
+- 🎤 Campus Ambassador — The Leap Pakistan
+- 🎤 Campus Ambassador — Paragon Study Abroad Expo
+- 🛠️ Management Team — IEEE PIEAS Student Branch
+- 🛠️ Management Team — PIEAS Open House
+- 🛠️ Management Team — InnovateX PIEAS
+
+---
+<div align="center">
+
+# 📈 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🌟 What I'm Currently Learning
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 Robotics
+
+- ROS 2
+- Gazebo Simulation
+- Navigation Stack
+- Linux for Robotics
+
+</td>
+
+<td width="50%">
+
+### ⚡ Electronics
+
+- High-Speed PCB Design
+- STM32 Development
+- Power Electronics
+- Embedded Linux
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build advanced embedded systems projects
+- 🔌 Design industry-level multi-layer PCBs
+- 🤖 Master ROS 2 and robotics software
+- ⚡ Deepen knowledge of power electronics
+- 📖 Learn STM32 and FreeRTOS
+- 🌍 Contribute to open-source hardware projects
+- 💼 Secure an R&D internship in embedded systems
+
+---
+
+# 📚 Favorite Technologies
+
+<div align="center">
+
+| PCB Design | Embedded | Robotics | Simulation |
+|------------|----------|----------|------------|
+| KiCad | Arduino | ROS 2 | MATLAB |
+| LTspice | ESP32 | Gazebo | Simulink |
+| Multisim | C/C++ | Linux | Proteus |
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"Great engineers don't just solve problems—they build solutions that last."**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:arhamsufyan5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*"Always excited to collaborate on PCB Design, Embedded Systems, Robotics, and Power Electronics projects."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24"/>
+
+</div>
