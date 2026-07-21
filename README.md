@@ -14,11 +14,11 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
+<a href="https://github.com/sufyan933">
+<img src="https://img.shields.io/github/followers/sufyan933?style=for-the-bafor-the-badgeub"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=sufyan933&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -274,9 +274,9 @@ Performed residential load calculations, breaker sizing, grounding design, volta
 
 # 📈 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sufyan933&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan933&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -284,7 +284,7 @@ Performed residential load calculations, breaker sizing, grounding design, volta
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sufyan933&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -294,7 +294,7 @@ Performed residential load calculations, breaker sizing, grounding design, volta
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyan933&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -304,7 +304,7 @@ Performed residential load calculations, breaker sizing, grounding design, volta
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sufyan933&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </div>
 
@@ -390,7 +390,7 @@ Performed residential load calculations, breaker sizing, grounding design, volta
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sufyan933">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
