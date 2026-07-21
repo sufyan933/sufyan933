@@ -18,7 +18,6 @@
   <a href="mailto:arhamsufyan5@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 </div>
@@ -144,39 +143,6 @@ Certifications
 · 🛠️ Management Team – PIEAS Open House 2026
 · 🛠️ Management Team – IEEE PIEAS Student Branch
 · 🛠️ Management Team – InnovateX PIEAS
-
-<br>
-
-📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&row=2&column=4" width="80%"/>
-</div>
-
-<br>
-
-📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyonight&hide_border=true" width="90%"/>
-</div>
-
-<br>
-
-🐍 Snake Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/snake.svg" alt="Snake Animation" width="100%"/>
-</div>
 
 <br>
 
