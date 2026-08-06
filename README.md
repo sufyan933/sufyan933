@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&text=Muhammad%20Sufyan&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Electrical%20Engineering%20Student%20%7C%20PCB%20Designer%20%7C%20Embedded%20Systems%20Enthusiast&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Electrical+Engineering+Student+at+PIEAS;PCB+Design+%7C+Embedded+Systems+%7C+ROS+2;Passionate+about+Power+Electronics;Building+Hardware+that+Solves+Real+Problems;CGPA+3.99+%2F+4.00" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Electrical+Engineering+Student+at+PIEAS;PCB+Design+%7C+Embedded+Systems+%7C+ROS+2;Passionate+about+Power+Electronics;Building+Hardware+that+Solves+Real+Problems;Diving+into+RF+%26+Bluetooth+PCB+Design;CGPA+3.99+%2F+4.00" />
 
 <br>
 
@@ -20,7 +20,36 @@
 
 <img src="https://komarev.com/ghpvc/?username=sufyan933&style=for-the-badge&color=blueviolet"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/PCB%20Design-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20to%20Collaboration-2ea44f?style=flat-square"/>
+
 </div>
+
+---
+
+## 📑 Table of Contents
+
+- [About Me](#-about-me)
+- [Highlights](#-highlights)
+- [Current Focus](#-current-focus)
+- [Quick Overview](#-quick-overview)
+- [Engineering Philosophy](#-engineering-philosophy)
+- [Technical Skills](#️-technical-skills)
+- [Experience](#-experience)
+- [Featured Projects](#-featured-projects)
+- [Certifications](#-certifications)
+- [Leadership & Activities](#-leadership--activities)
+- [GitHub Analytics](#-github-analytics)
+- [What I'm Currently Learning](#-what-im-currently-learning)
+- [2026 Goals](#-2026-goals)
+- [Favorite Technologies](#-favorite-technologies)
+- [Contributing & Contact](#-contributing--contact)
 
 ---
 
@@ -28,15 +57,29 @@
 
 I'm **Muhammad Sufyan**, a **B.S. Electrical Engineering student at PIEAS** with a passion for designing reliable hardware and embedded systems.
 
-I enjoy transforming ideas into real-world electronic products by combining **PCB design**, **embedded programming**, and **power electronics**. Whether it's routing a multi-layer PCB, programming a microcontroller, or debugging hardware, I love solving engineering challenges through hands-on development.
+I enjoy transforming ideas into real-world electronic products by combining **PCB design**, **embedded programming**, and **power electronics**. Whether it's routing a multi-layer board, matching an RF front-end, programming a microcontroller, or debugging hardware on the bench, I love solving engineering problems through hands-on development.
 
-Currently, I'm expanding my expertise in **ROS 2**, robotics, and modern embedded systems while continuously improving my PCB design workflow and hardware development skills.
+Currently, I'm expanding my expertise in **ROS 2**, robotics, and RF/wireless PCB design — most recently by building a Bluetooth Low Energy board around the STM32WB55 — while continuously improving my embedded systems and hardware development workflow.
+
+> 🚀 **Latest build:** A 4-layer STM32WB55 Bluetooth LE board — my first project into RF PCB design, complete with a pi-matching network and antenna filtering. [Jump to project ↓](#-stm32wb55-bluetooth-le-pcb)
+
+---
+
+## ⭐ Highlights
+
+- 🎓 CGPA **3.99 / 4.00** — B.S. Electrical Engineering, PIEAS
+- 🔌 **7+ hardware and embedded projects** shipped, spanning power electronics, PCB design, and robotics
+- 📡 First RF design completed: a 4-layer **Bluetooth LE board** built around the **STM32WB55**
+- 🤖 Currently a **ROS 2 Intern** at ArboTrix Lab, working on robotics simulation and autonomous systems
+- 🛠️ Active in **IEEE PIEAS**, **InnovateX PIEAS**, and **PIEAS Open House** management teams
+- 📚 5 completed certifications across MATLAB, PCB design, and applied AI tools
 
 ---
 
 ## 🚀 Current Focus
 
 - 🔷 Custom PCB Design using KiCad
+- 📡 RF & Antenna Matching for Wireless PCBs
 - 🤖 ROS 2 & Robotics
 - ⚡ Power Electronics
 - 🔌 Embedded Systems Development
@@ -60,6 +103,7 @@ Current Internship:
 
 Interests:
   - PCB Design
+  - RF / Wireless Hardware
   - Embedded Systems
   - Robotics
   - Power Electronics
@@ -72,7 +116,7 @@ Interests:
 
 > **"The best way to understand hardware is to build it."**
 
-I believe engineering is learned by designing, testing, debugging, and continuously improving. Every project teaches something new, and every mistake brings me closer to becoming a better engineer.
+I believe engineering is learned by designing, testing, debugging, and continuously improving. Every project teaches something new, and every mistake brings me closer to becoming a better engineer. My most recent board taught me that the fastest way to actually learn a new domain — like RF design — is to stop reading about it and start laying it out, mistakes included.
 
 ---
 
@@ -91,12 +135,13 @@ I believe engineering is learned by designing, testing, debugging, and continuou
 <p align="left">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 </p>
 
 ---
 
-### 🔌 PCB Design & Electronics
+### 🔌 PCB Design, RF & Electronics
 
 <p align="left">
 
@@ -109,6 +154,8 @@ I believe engineering is learned by designing, testing, debugging, and continuou
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Power%20Electronics-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RF%20%26%20Antenna%20Matching-00b4d8?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/High--Speed%20PCB%20Design-4B0082?style=for-the-badge"/>
 
@@ -133,7 +180,6 @@ I believe engineering is learned by designing, testing, debugging, and continuou
 # 💼 Experience
 
 ## 🤖 ROS 2 Intern | ArboTrix Lab
-
 **July 2026 – Present**
 
 - Learning ROS 2 architecture
@@ -155,6 +201,42 @@ I believe engineering is learned by designing, testing, debugging, and continuou
 ---
 
 # 🚀 Featured Projects
+
+## 📡 STM32WB55 Bluetooth LE PCB
+
+> **KiCad 10 • STM32WB55 • RF / Bluetooth Design**
+
+<img src="https://img.shields.io/badge/KiCad%2010-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32WB55-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/4--Layer%20PCB-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/RF%20Design-00b4d8?style=flat-square"/>
+
+My first step into RF PCB design: a Bluetooth Low Energy board built around the **STM32WB55**, a dual-core MCU with its own dedicated radio co-processor. Most of my earlier boards were simple 2-layer power supplies and digital logic — this project meant learning an entirely different discipline, where return paths, controlled impedance, and ground plane continuity stop being optional the moment RF enters the picture.
+
+Designed entirely in **KiCad 10**, following ST's **AN5165** application note as the primary design reference.
+
+<details>
+<summary>🔍 Design details (click to expand)</summary>
+
+- **Antenna front-end:** Pi-matching network paired with a TDK low-pass filter ahead of the U.FL antenna connector, to match impedance and suppress out-of-band emissions before the signal leaves the board.
+- **Stackup:** 4-layer PCB with a dedicated inner ground plane, providing a continuous RF return path and controlled impedance for the antenna trace.
+- **Power delivery:** Uses the STM32WB55's internal SMPS buck converter, configured with a 10 nH / 10 µH inductor pairing for efficient regulation.
+- **Input protection:** USB-C power path protected with ESD protection components ahead of the MCU.
+
+</details>
+
+**Highlights**
+
+- 📡 Dual-Core STM32WB55 (Bluetooth LE + Application Core)
+- 🎯 Pi-Matching Network + TDK Low-Pass Filter
+- 🔌 U.FL Antenna Connector
+- 🧱 4-Layer Stackup with Dedicated Inner Ground Plane
+- 📐 Controlled Impedance / RF Return Path Design
+- ⚡ Internal SMPS Buck Converter (10nH/10µH Pairing)
+- 🛡 USB-C Power with ESD Protection
+- 📖 Designed per ST AN5165 Application Note
+
+---
 
 ## 🔌 IoT Custom ESP32 4-Layer PCB
 
@@ -202,7 +284,7 @@ Designed a regulated power supply featuring transformer, bridge rectifier, capac
 
 A password-protected electronic door lock featuring secure authentication, EEPROM-based password storage, LCD interface, buzzer alerts, and servo-controlled locking mechanism.
 
-### Features
+**Features**
 
 - Password Authentication
 - EEPROM Memory
@@ -221,7 +303,7 @@ A password-protected electronic door lock featuring secure authentication, EEPRO
 
 Developed a radar scanning system capable of continuously sweeping an area using a servo motor while measuring distances with an ultrasonic sensor.
 
-### Features
+**Features**
 
 - Real-time Scanning
 - Object Detection
@@ -270,6 +352,7 @@ Performed residential load calculations, breaker sizing, grounding design, volta
 - 🛠️ Management Team — InnovateX PIEAS
 
 ---
+
 <div align="center">
 
 # 📈 GitHub Analytics
@@ -330,6 +413,7 @@ Performed residential load calculations, breaker sizing, grounding design, volta
 
 ### ⚡ Electronics
 
+- RF Impedance Matching & Antenna Design
 - High-Speed PCB Design
 - STM32 Development
 - Power Electronics
@@ -346,6 +430,7 @@ Performed residential load calculations, breaker sizing, grounding design, volta
 
 - 🚀 Build advanced embedded systems projects
 - 🔌 Design industry-level multi-layer PCBs
+- 📡 Deepen RF and wireless PCB design skills
 - 🤖 Master ROS 2 and robotics software
 - ⚡ Deepen knowledge of power electronics
 - 📖 Learn STM32 and FreeRTOS
@@ -361,7 +446,7 @@ Performed residential load calculations, breaker sizing, grounding design, volta
 | PCB Design | Embedded | Robotics | Simulation |
 |------------|----------|----------|------------|
 | KiCad | Arduino | ROS 2 | MATLAB |
-| LTspice | ESP32 | Gazebo | Simulink |
+| LTspice | ESP32 / STM32 | Gazebo | Simulink |
 | Multisim | C/C++ | Linux | Proteus |
 
 </div>
@@ -378,7 +463,11 @@ Performed residential load calculations, breaker sizing, grounding design, volta
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Contributing & Contact
+
+This profile documents my personal learning and project work as an Electrical Engineering student — but I'm always glad to talk PCB design, embedded systems, or robotics. If you spot something worth discussing, want to collaborate on a project, or just want to compare notes on RF design mistakes, feel free to reach out.
+
+**Acknowledgements:** PIEAS, IEEE PIEAS Student Branch, InnovateX PIEAS, ArboTrix Lab, and Alkhidmat Foundation, along with STMicroelectronics' application notes (including AN5165), which have been invaluable references for hardware design.
 
 <div align="center">
 
@@ -396,13 +485,13 @@ Performed residential load calculations, breaker sizing, grounding design, volta
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ### 💙 Thanks for visiting my profile!
 
-*"Always excited to collaborate on PCB Design, Embedded Systems, Robotics, and Power Electronics projects."*
+*"Always excited to collaborate on PCB Design, RF/Embedded Systems, Robotics, and Power Electronics projects."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24"/>
 
